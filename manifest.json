@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydata",
+  "repo": "pyrallel",
+  "versions": [
+    {
+      "commit": "761cbf7783dd8ada377ff164f78b254689067088",
+      "parsed_at": "2026-10-21T20:36:56.350777+00:00",
+      "filetree": "filetree/761cbf7783dd8ada377ff164f78b254689067088.nq.gz",
+      "blobs": [
+        "blob/5cc3e09459193f11952f2738f9c0564b0674960a.nq.gz",
+        "blob/a25cc4e75d375270ede8668078218ab52c2ccaf0.nq.gz",
+        "blob/e8a57cab44cf3f6d5078e1ebb1028c700311bd53.nq.gz",
+        "blob/9f2151c2e57c8b41948bb0ab0a2b3ede85c7f6ae.nq.gz",
+        "blob/0cb15d89cc0f1e5e8c6533977297bfee7307d629.nq.gz",
+        "blob/c1b68e4bcf68a4a93be0aa8fde468faea61d7b77.nq.gz",
+        "blob/0992003b9236f9c9679080db1adad26b63ed8011.nq.gz",
+        "blob/af4897f42a8a81a6c031d5721aeefffde4759c79.nq.gz",
+        "blob/58d7db3e1dfbdac10394b19899048238069b5b8d.nq.gz",
+        "blob/3b6270cac70cf4e5322f4830ffe9c899cd7bea78.nq.gz",
+        "blob/e98c96ebf1ee1c766171b0c09d870a5c5e03b3f9.nq.gz",
+        "blob/241ce817bd0f16ee5c72b4e9d43f80f3d627d1db.nq.gz",
+        "blob/8d838d92becdb6ef01a7a3d4e6814eaa450e2c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
