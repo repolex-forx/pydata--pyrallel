@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "pyrallel",
+  "versions": [
+    {
+      "commit": "761cbf7783dd8ada377ff164f78b254689067088",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:38:50.605035+00:00"
+    }
+  ]
+}
